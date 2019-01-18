@@ -1,0 +1,19 @@
+    
+body {    
+    font-family: Constantia;
+}
+
+h1 {
+    color: salmon;
+}
+
+label {
+    display: block;
+    padding: 5px;
+}
+
+button {
+    color: white;
+    background: forestgreen;
+    padding: 5px;
+}
